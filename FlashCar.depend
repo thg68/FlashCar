@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1683294479 source:c:\users\admin\desktop\flashcar\barrier.cpp
+	"barrier.h"
+
+1683294479 c:\users\admin\desktop\flashcar\barrier.h
+	"player.h"
+	"function.h"
+
+1683294393 c:\users\admin\desktop\flashcar\player.h
+	"Function.h"
+
+1683294393 c:\users\admin\desktop\flashcar\function.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	<SDl_mixer.h>
+
+1683294479 source:c:\users\admin\desktop\flashcar\game.cpp
+	"game.h"
+
+1683294479 c:\users\admin\desktop\flashcar\game.h
+	"Function.h"
+	"player.h"
+	"barrier.h"
+	"health.h"
+	<vector>
+	<algorithm>
+
+1683294393 c:\users\admin\desktop\flashcar\health.h
+	"Function.h"
+
+1683294479 source:c:\users\admin\desktop\flashcar\health.cpp
+	"health.h"
+
+1683294479 source:c:\users\admin\desktop\flashcar\main.cpp
+	"game.h"
+
+1683294479 source:c:\users\admin\desktop\flashcar\player.cpp
+	"player.h"
+
+1683294494 source:c:\users\admin\desktop\flashcar\function.cpp
+	"Function.h"
+
